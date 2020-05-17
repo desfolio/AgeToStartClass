@@ -1,1 +1,1 @@
-﻿
+﻿# Write a console program that ask the user for their name and age. If their name is Bob or Sue, address them as professor. If the person is under 21, recommend they wait X years to start the class.
